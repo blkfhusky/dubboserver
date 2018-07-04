@@ -23,5 +23,4 @@
     <!--加载其他配置文件-->
     <import resource="classpath:/config/db-config.xml" />
     <import resource="classpath:/config/dubbo-config.xml"/>
-
 </beans>
